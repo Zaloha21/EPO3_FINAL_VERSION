@@ -22,5 +22,5 @@ The chip will be delivered approximately 6 months after the design is graded. As
 
 ### About this project
 Our goal is to create a digital logic-based player versus player arena shooter game. It will be two dimensional and platformer based. It will be playable with a 
-NES controller of which the controlls are left, right, up and shoot. Future plans include adding powerups in the form of different weapons and in game music.
+SNES controller of which the controlls are left, right, up and shoot. Future plans include adding powerups in the form of different weapons and in game music.
 
