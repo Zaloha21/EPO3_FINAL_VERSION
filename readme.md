@@ -2,13 +2,12 @@
 This repository contains the VHD and matlab files needed to synthesise a logic based video game. As of now the repository consists out of multiple folders
 containing the modules and submodules needed for the chip. Currently the modules of this project are as follows.
 1. VGA
-2. GPU (gpu controlls in CPU)
-3. Player (all combined in CPU)
-   * Collision Checking
-   * Movement Calculation
-   * Player variable storage (coordinates, direction, velocity)
-   * Physics Calculation
+2. GPU 
+3. Player 
 4. Bullets
+5. Physical_controllers
+6. Rom_allocator
+7. Top_level_entities
 Code references will bring you to this page.
 
 
